@@ -1,0 +1,6 @@
+framework module CustomFramework {
+  umbrella header "CustomFramework.h"
+
+  export *
+  module * { export * }
+}
